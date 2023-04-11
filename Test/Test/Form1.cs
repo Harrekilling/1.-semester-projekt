@@ -20,6 +20,11 @@ namespace Test
         private void Form1_Load(object sender, EventArgs e)
         {
             MessageBox.Show("Seje Reje!");
+            MessageBox.Show("Seje Reje!");
+            MessageBox.Show("Seje Reje!");
+            MessageBox.Show("Seje Reje!");
+            MessageBox.Show("Seje Reje!");
+            MessageBox.Show("Seje Reje!");
         }
     }
 }
